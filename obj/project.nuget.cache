@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpK3+PVa/48=",
+  "dgSpecHash": "vefA7K1/npI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\azureuser\\MyMvcApp-Contact-Database-Application\\MyMvcApp.csproj",
+  "projectFilePath": "/workspaces/MyMvcApp-Contact-Database-Application/MyMvcApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
